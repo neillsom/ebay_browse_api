@@ -14,6 +14,12 @@ app.use(
 	})
 );
 
+app.get( '/test', (req, res, next) => {
+	return res.json({
+		name: 'Hello!'
+	});
+});
+
 // app.use(cors({origin: CLIENT_ORIGIN}));
 
 function runServer(port = PORT) {
