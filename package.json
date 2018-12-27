@@ -1,0 +1,22 @@
+{
+  "name": "ebay_browse_api",
+  "version": "1.0.0",
+  "description": "Demo app for learning ebay browse api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neillsom/ebay_browse_api.git"
+  },
+  "author": "Neill Somerville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neillsom/ebay_browse_api/issues"
+  },
+  "homepage": "https://github.com/neillsom/ebay_browse_api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
