@@ -12,7 +12,7 @@
     "url": "git+https://github.com/neillsom/ebay_browse_api.git"
   },
   "author": "Neill Somerville",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/neillsom/ebay_browse_api/issues"
   },
